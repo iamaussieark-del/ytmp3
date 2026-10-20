@@ -1,0 +1,20 @@
+# Build output
+build/
+dist/
+*.spec
+
+# Bundled binaries (re-downloaded by build_exe.bat)
+vendor/
+
+# Python
+__pycache__/
+*.pyc
+
+# App output
+downloads/
+
+# Local scratch / logs
+_env.txt
+_pip.log
+_compile.log
+_run*.py
